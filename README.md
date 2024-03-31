@@ -30,15 +30,17 @@
       
 <blockquote>
 
-I am a 2nd year Software Engineering student. 
-  
-I care a lot about privacy and security, and have carried out several audits and have made numerous submissions to various bug bounty programs.
+I am a 2nd year Software Engineering student at Istanbul Atlas University.
 
-I also enjoy attending ([and sometimes winning](https://notes.aliciasykes.com/p/0s5s3uOtKj)) hackathons and coding competitions, as it's a great opportunity to try out new technologies, meet new people and consume a lot of free caffeine.
+I have a small home lab, which I'm using to learn more about cyber security and host my own services. 
 
-I have a small homelab, which I'm using to learn more about system administration, and host my own services. 
+Love using and contributing to open-source projects.
 
-When I'm not at the keyboard, I like sports, astronomy and hanging out with friends.
+Currently working on developing some full-stack applications.
+
+Developing a drone with defensive mechanisms.
+
+Working on an AI marketing tool for the Turkish market.
 
 </blockquote>
     
@@ -62,24 +64,40 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 
 <details>
 <summary>
-  <b style="font-size=30px">Skills</b>
+  <b style="font-size:20px;">Skills</b>
 </summary>
 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
+| Java Language & Encryption Algorithms         | <a href="https://github.com/SeifElred/Encrypted-Chat-System">Encrypted Chat System</a>|
+| Docker & Containerization | Deployed Many Open Source Projects  |
+| HTTP Protocol         | <a href="seif.live">My Search Engine</a>|
+| Amazon Cloud Services (AWS)      | Private |
+| Network Monitoring and Package Sniffing                 | Wireshark Project |
   
 </details>
 
+<details open="">
+<summary>
+  <b style="font-size:20px;">Self Host Projects</b>
+</summary>
 
 
+| Name                                         | Description         |
+|-----------------------------------------------|----------------------------|
+| Portainer         | <a href="https://www.portainer.io/">Docker Manager ???</a>|
+| Vaultwarden         | <a href="https://hub.docker.com/r/vaultwarden/server">Password Manager + Chrome Extension ✅</a>|
+| Nginx Proxy Manager         | <a href="https://nginxproxymanager.com/">Manage you conf easier from a GUI</a>|
+| Searxng         | <a href="https://github.com/searxng/searxng">Your Own Search Engine</a>|
+| Matrix.org         | <a href="https://github.com/SeifElred/Encrypted-Chat-System">Secure Chat System! Leave this low secure lifestyle</a>|
+| FastPanel         | <a href="https://fastpanel.direct/">Server Control Panel! Forget CPanel</a>|
+| Directus         | <a href="https://directus.io/">BackEnd CMS</a>|
+| WireGuard         | <a href="https://www.wireguard.com/">Host you own VPN Service</a>|
+
+
+  
+</details>
 
 
 ## Tools
@@ -141,5 +159,4 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Encrypted Chat System
