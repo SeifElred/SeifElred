@@ -192,25 +192,31 @@ Working on an AI marketing tool for the Turkish market.
 
 ## Certifications
 
-- C Language (SoloLearn)
-- Introduction to Cybersecurity Foundations (Infosec)
-- HTML (SoloLearn)
-- Cryptography (Cybrary)
-#### Upcoming
-- Google Cybersecurity Professional Certificate
-- Cybersecurity for Everyone
-- Introduction to Cyber Security Specialization
-- Cybersecurity Attack and Defense Fundamentals Specialization
-- Cybersecurity in Healthcare (Hospitals & Care Centres)
-- Object Oriented Programming in Java Specialization
-- Software Design and Architecture Specialization
-- Data Structures and Algorithms Specialization
-- Fundamentals of Computer Network Security Specialization
-- Introduction to TCP/IP
-- IBM Full Stack Software Developer Professional Certificate
-- IBM AI Engineering Professional Certificate
-- Arizona State University TESOL Professional Certificate
+### Completed
 
+| **Certification Name**                                               | **Provider**                            |
+|-----------------------------------------------------------------------|-------------------------------------------------|
+| C Language                         | SoloLearn                                          |
+| Introduction to Cybersecurity Foundations                                             |  Infosec                          |
+| HTML                          | SoloLearn                             |
+| Cryptography           | Cybrary                                      |
+
+### Upcoming
+
+| **Certification Name**                                               | **Provider**                            |
+|-----------------------------------------------------------------------|-------------------------------------------------|
+| Google Cybersecurity Professional Certificate                          | Google                                          |
+| Cybersecurity for Everyone                                             | University of Maryland                          |
+| Introduction to Cyber Security Specialization                           | New York University                             |
+| Cybersecurity Attack and Defense Fundamentals Specialization           | EC-COUNCIL                                      |
+| Cybersecurity in Healthcare (Hospitals & Care Centres)                 | Erasmus University Rotterdam                    |
+| Object Oriented Programming in Java Specialization                      | Duke University & UC San Diego                   |
+| Software Design and Architecture Specialization                         | University of Alberta                            |
+| Data Structures and Algorithms Specialization                           | UC San Diego                                     |
+| Fundamentals of Computer Network Security Specialization                | University of Colorado                           |
+| Introduction to TCP/IP                                                 | Yonsei University                                |
+| IBM Full Stack Software Developer Professional Certificate              | IBM                                             |
+| IBM AI Engineering Professional Certificate                             | IBM                                             |
 
 ## Interests
 
