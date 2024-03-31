@@ -6,13 +6,13 @@
 <!-- Socials -->
 <p align="center">
    <kbd>
-  <a href="https://seifelredeini.com" title="Personal Website - seifelredeini.com"><img src="https://img.shields.io/badge/-seifelredeini.com-00CCB4?style=for-the-badge&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/seifelredeini/"><img src="https://img.shields.io/badge/-SeifElred-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/seifelred/"><img src="https://img.shields.io/badge/SeifElred-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https:/dev.to/seifelred" title="Dev.to - @seifelred"><img src="https://img.shields.io/badge/-seifelred-a75fff?style=for-the-badge&logo=Dev.to&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/22812288/seif-elredeini" title="StackOverflow - Seif Elredeini"><img src="https://img.shields.io/badge/-seifelredeini-f48225?style=for-the-badge&logo=Stackoverflow&logoColor=white" /></a>
-  <a href="https://elred.medium.com/" title="Medium - Seif Elredeini"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://www.reddit.com/user/Seifelred" title="Reddit - u/Seifelred"><img src="https://img.shields.io/badge/-Seifelred-ff4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+  <a href="https://seifelredeini.com" title="Personal Website - seifelredeini.com" target="_blank"><img src="https://img.shields.io/badge/-seifelredeini.com-00CCB4?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/seifelredeini/" target="_blank"><img src="https://img.shields.io/badge/-SeifElred-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/seifelred/" target="_blank"><img src="https://img.shields.io/badge/SeifElred-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https:/dev.to/seifelred" title="Dev.to - @seifelred" target="_blank"><img src="https://img.shields.io/badge/-seifelred-a75fff?style=for-the-badge&logo=Dev.to&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/22812288/seif-elredeini" title="StackOverflow - Seif Elredeini" target="_blank"><img src="https://img.shields.io/badge/-seifelredeini-f48225?style=for-the-badge&logo=Stackoverflow&logoColor=white" /></a>
+  <a href="https://elred.medium.com/" title="Medium - Seif Elredeini" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://www.reddit.com/user/Seifelred" title="Reddit - u/Seifelred" target="_blank"><img src="https://img.shields.io/badge/-Seifelred-ff4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
   </kbd>
 </p>
 <!-- About Section -->
