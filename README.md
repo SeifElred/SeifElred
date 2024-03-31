@@ -21,7 +21,7 @@
 <details open="">
   <summary><b>👤 About</b></summary>
     <p>
-      <img align="right" width="250" src="https://github.com/SeifElred/SeifElred/blob/main/DSC02760.JPG" alt="Seif Elredeini" />
+      <img src="https://github.com/SeifElred/SeifElred/blob/main/DSC02760.JPG" alt="Seif Elredeini" />
       
 <blockquote>
 
