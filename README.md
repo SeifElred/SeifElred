@@ -25,7 +25,7 @@
       
 <blockquote>
 
-I am a 2nd year Software Engineering student at Istanbul Atlas University.
+I am a 3rd year Software Engineering student at Istanbul Atlas University.
 
 I have a small home lab, which I'm using to learn more about cyber security and host my own services. 
 
